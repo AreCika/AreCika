@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Amirul 👋
 
-<!--
-**AreCika/AreCika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer and Software Development student at **UTeM**, passionate about building real-world web applications.
 
-Here are some ideas to get you started:
+Interested in UI/UX design, JavaScript, APIs, and modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- HTML, CSS, JavaScript
+- React
+- REST APIs
+- Git and GitHub
+
+## Currently Learning
+
+- Advanced JavaScript
+- Modern frontend development
+- UI/UX design principles
+
+## Current Project
+
+Building practical web applications that solve real-world problems.
+
+> "Building cool stuff, googling cooler solutions."
